@@ -47,7 +47,7 @@
 
 ## 🛠️ Skills & Tools
 
-##
+<br>
 
 ### 💻 Programming Languages
 
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-##
+<br>
 
 ### 🗄️ Databases
 
@@ -88,7 +88,7 @@
   </a>
 </p>
 
-##
+<br>
 
 ### 🌐 Web Frameworks & Tools
 
@@ -116,7 +116,7 @@
   </a>
 </p>
 
-##
+<br>
 
 ### 📱 Mobile Frameworks
 
@@ -129,7 +129,7 @@
   </a>
 </p>
 
-##
+<br>
 
 ### 🧰 Tools & Platforms
 
