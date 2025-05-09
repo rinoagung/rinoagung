@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
-<h3 align="center">A passionate developer from [Negara/Kota]</h3>
+<h1 align="center">Hi 👋, I'm Rino Agung</h1>
+<h3 align="center">A passionate developer from Indonesia</h3>
 
--   🔭 I’m currently working on **[Nama Proyek atau Fokus Saat Ini]**
+<!-- -   🔭 I’m currently working on **[Nama Proyek atau Fokus Saat Ini]**
 
 -   🌱 I’m currently learning **[Teknologi/Bahasa yang Sedang Dipelajari]**
 
@@ -9,7 +9,7 @@
 
 -   📫 How to reach me **[Email atau Link Sosial Media]**
 
--   ⚡ Fun fact **[Fakta Menarik tentang Kamu]**
+-   ⚡ Fun fact **[Fakta Menarik tentang Kamu]** -->
 
 ---
 
